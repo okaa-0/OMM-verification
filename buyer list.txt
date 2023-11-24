@@ -1,6 +1,6 @@
 // DO NOT FORGET
 // Format:
-(discord & id) / (key) / (mac combined key (Mac, MAC)) / (sha value)
+(discord & id) / (key) / (hardware thingimabop) / (value)
 
 
 test shi:
